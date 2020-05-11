@@ -1,4 +1,4 @@
-before_script: cd app
+before_install: cd app
 language: node_js
 node_js: 
   - "stable"
